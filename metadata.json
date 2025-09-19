@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Product Placement",
+  "description": "Upload a character image and a product image, and this app will use Gemini Nano Banana to generate an image of the character using the product, maintaining the original style and aspect ratio.",
+  "requestFramePermissions": []
+}
